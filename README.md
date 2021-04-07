@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joliebebe
 - 👀 I’m interested in programmation
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
